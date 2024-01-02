@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact name="TurnUndead:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TurnUndead_jar</output-path>
+    <root id="root">
+      <element id="archive" name="TurnUndead.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/forJar/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="TurnUndead" />
+      </element>
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:17.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:17.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:win:17.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:17.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-media:win:17.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:17.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:17.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:17.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-media:17.0.1" />
+    </root>
+  </artifact>
+</component>
